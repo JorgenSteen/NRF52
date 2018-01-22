@@ -212,7 +212,15 @@ static void nus_data_handler(ble_nus_evt_t * p_evt)
         break;
      }
 }
-
+uint8_t * Uart_to_Neopixel(uint8_t * Input_buffer)
+{
+  uint8_t  Led_data[70];
+  uint8_t string_size = 10;
+  for (uint8_t i = 0; i < string_size; i++) {
+    Led_data[i] = Input_buffer[i];
+  }
+  return((uint8_t *)Led_data);
+}
 /**@snippet [Handling the data received over BLE] */
 
 
