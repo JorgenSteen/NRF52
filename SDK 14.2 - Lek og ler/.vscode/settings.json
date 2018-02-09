@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "nrf_delay.h": "c",
+        "segger_rtt.h": "c",
+        "nrf_log.h": "c",
+        "app_uart.h": "c"
+    }
+}

@@ -123,7 +123,7 @@ $(foreach target, $(TARGETS), $(call define_target, $(target)))
 # Flash the program
 flash: $(OUTPUT_DIRECTORY)/nrf52832_xxaa.hex
 	@echo Flashing: $<
-	nrfjprog -f nrf52 --program $< --sectorerase
+	nrfjprog -f nrf52 --program $< --sectorerase --verify
 	nrfjprog -f nrf52 --reset
 
 erase:
