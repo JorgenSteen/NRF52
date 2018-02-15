@@ -1,6 +1,6 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/bsp.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\bsp\bsp.c \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\bsp\bsp.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\bsp\bsp.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\bsp\bsp.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
  ../../../../../../components/boards/boards.h \
@@ -34,7 +34,7 @@ Output/ble_app_uart_pca10040_s132\ Debug/Obj/bsp.o: \
  ../../../../../../components/libraries/util/app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stddef.h \
  ../../../../../../components/libraries/util/nordic_common.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\bsp\bsp_config.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\bsp\bsp_config.h \
  ../../../../../../components/libraries/timer/app_timer.h \
  ../../../../../../components/libraries/util/app_util.h \
  ../../../../../../components/device/compiler_abstraction.h

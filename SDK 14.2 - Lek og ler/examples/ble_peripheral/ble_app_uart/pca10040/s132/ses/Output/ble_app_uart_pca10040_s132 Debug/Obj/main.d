@@ -1,5 +1,5 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/main.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\examples\ble_peripheral\ble_app_uart\main.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\examples\ble_peripheral\ble_app_uart\main.c \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/string.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/__crossworks.h \
@@ -74,6 +74,7 @@ Output/ble_app_uart_pca10040_s132\ Debug/Obj/main.o: \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdlib.h \
  ../../../../../../components/boards/pca10040.h \
  ../../../../../../components/libraries/button/app_button.h \
+ ../../../../../../components/drivers_nrf/delay/nrf_delay.h \
  ../../../../../../components/drivers_nrf/hal/nrf_uart.h \
  ../../../../../../components/drivers_nrf/hal/nrf_uarte.h \
  ../../../../../../components/libraries/experimental_log/nrf_log.h \

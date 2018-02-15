@@ -1,5 +1,5 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/app_fifo.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\fifo\app_fifo.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\fifo\app_fifo.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
@@ -26,5 +26,5 @@ Output/ble_app_uart_pca10040_s132\ Debug/Obj/app_fifo.o: \
  ../../../../../../components/device/nrf52_name_change.h \
  ../../../../../../components/device/compiler_abstraction.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\fifo\app_fifo.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\fifo\app_fifo.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdlib.h

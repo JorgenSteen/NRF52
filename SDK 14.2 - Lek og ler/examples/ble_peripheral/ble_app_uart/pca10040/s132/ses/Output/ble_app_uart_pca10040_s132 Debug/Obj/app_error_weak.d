@@ -1,6 +1,6 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/app_error_weak.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\util\app_error_weak.c \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\util\app_error.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\util\app_error_weak.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdio.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/__crossworks.h \
@@ -17,11 +17,11 @@ Output/ble_app_uart_pca10040_s132\ Debug/Obj/app_error_weak.o: \
  ../../../../../../components/device/nrf51_to_nrf52.h \
  ../../../../../../components/device/nrf52_name_change.h \
  ../../../../../../components/device/compiler_abstraction.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\util\sdk_errors.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\util\sdk_errors.h \
  ../../../../../../components/softdevice/s132/headers/nrf_error.h \
  ../config/sdk_config.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\util\nordic_common.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\util\app_error_weak.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\util\nordic_common.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\util\app_error_weak.h \
  ../../../../../../components/libraries/experimental_log/nrf_log.h \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/string.h \

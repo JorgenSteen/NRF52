@@ -1,7 +1,7 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/SEGGER_RTT_printf.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\external\segger_rtt\SEGGER_RTT_printf.c \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\external\segger_rtt\SEGGER_RTT.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\external\segger_rtt\SEGGER_RTT_Conf.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\external\segger_rtt\SEGGER_RTT_printf.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\external\segger_rtt\SEGGER_RTT.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\external\segger_rtt\SEGGER_RTT_Conf.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/libraries/util/app_util_platform.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \

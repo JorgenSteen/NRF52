@@ -27,7 +27,7 @@ int main(void)
         {
             NRF_GPIO->OUT |= (1<<i);
             nrf_delay_ms(200);
-           UART_send((char) i);
+             UART_send((char) i);
         }
     }
 }
@@ -41,32 +41,24 @@ void Basic_Init(void)
 
 void UART_init(void)
 {
-
-    
-
     #define RX_PIN 8
     #define TX_PIN 6
     #define RTS_PIN 5
     #define CTS_PIN 7
-
-    NRF_GPIO->PIN_CNF[TX_PIN] = 0b11;
-    NRF_GPIO->PIN_CNF[RX_PIN] = 0b10;
-
-    NRF_UART0->ENABLE = 4;
+    NRF_UART0->ENABLE = true;
     NRF_UART0->PSELRXD = RX_PIN; //(1<<RX_PIN);
     NRF_UART0->PSELTXD = TX_PIN; //(1<<TX_PIN);
     NRF_UART0->PSELRTS = RTS_PIN; //(1<<RTS_PIN);
     NRF_UART0->PSELCTS = CTS_PIN; //(1<<CTS_PIN);
-    //NRF_UART0->CONFIG |= 0x7;
     NRF_UART0->BAUDRATE = 0x01D7E000;
-
+   
+    //NRF_UART0->EVENTS_NCTS = true;
 
 }
 void UART_send(char UART_IN)
 {
-   NRF_UART0->TASKS_STARTTX = true;
     NRF_UART0->TXD = UART_IN;
-    
+    NRF_UART0->TASKS_STARTTX = true;
 
     if (NRF_UART0->EVENTS_ERROR) {
         while(true);
@@ -74,8 +66,6 @@ void UART_send(char UART_IN)
 
     while(!NRF_UART0->EVENTS_TXDRDY);
      NRF_UART0->EVENTS_TXDRDY = 0;
-
-     NRF_UART0->TASKS_STOPTX = true;
 
      
 

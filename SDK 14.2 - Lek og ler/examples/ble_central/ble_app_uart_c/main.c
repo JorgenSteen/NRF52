@@ -194,10 +194,10 @@ static void ble_nus_chars_received_uart_print(uint8_t * p_data, uint16_t data_le
             }
         } while (ret_val == NRF_ERROR_BUSY);
     }
-    if (p_data[data_len-1] == '\r')
-    {
+   // if (p_data[data_len-1] == '\r')
+    //{
         while (app_uart_put('\n') == NRF_ERROR_BUSY);
-    }
+    //}
     if (ECHOBACK_BLE_UART_DATA)
     {
         // Send data back to peripheral.

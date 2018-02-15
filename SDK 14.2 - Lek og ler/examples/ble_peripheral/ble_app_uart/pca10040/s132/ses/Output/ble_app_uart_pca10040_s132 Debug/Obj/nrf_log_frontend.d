@@ -1,5 +1,5 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/nrf_log_frontend.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\experimental_log\src\nrf_log_frontend.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\experimental_log\src\nrf_log_frontend.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
@@ -43,7 +43,7 @@ Output/ble_app_uart_pca10040_s132\ Debug/Obj/nrf_log_frontend.o: \
  ../../../../../../components/libraries/strerror/nrf_strerror.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/experimental_log/src/nrf_log_internal.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\experimental_log\src\nrf_log_internal.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\experimental_log\src\nrf_log_internal.h \
  ../../../../../../components/libraries/experimental_log/nrf_log_ctrl.h \
  ../../../../../../components/libraries/experimental_log/src/nrf_log_ctrl_internal.h \
  ../../../../../../components/libraries/experimental_log/nrf_log_backend_interface.h \

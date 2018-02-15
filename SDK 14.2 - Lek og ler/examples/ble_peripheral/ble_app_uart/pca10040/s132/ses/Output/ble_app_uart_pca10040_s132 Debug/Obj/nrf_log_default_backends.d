@@ -1,5 +1,5 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/nrf_log_default_backends.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\experimental_log\src\nrf_log_default_backends.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\experimental_log\src\nrf_log_default_backends.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
@@ -45,6 +45,6 @@ Output/ble_app_uart_pca10040_s132\ Debug/Obj/nrf_log_default_backends.o: \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
  ../../../../../../components/libraries/util/app_util.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\experimental_log\src\nrf_log_internal.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\experimental_log\src\nrf_log_internal.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/experimental_log/nrf_log_backend_rtt.h

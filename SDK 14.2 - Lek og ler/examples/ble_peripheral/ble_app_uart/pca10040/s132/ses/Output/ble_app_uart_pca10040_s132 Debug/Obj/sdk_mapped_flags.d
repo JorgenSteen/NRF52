@@ -1,13 +1,13 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/sdk_mapped_flags.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\util\sdk_mapped_flags.c \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\util\sdk_mapped_flags.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\util\sdk_mapped_flags.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\util\sdk_mapped_flags.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\util\app_util.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\util\app_util.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stddef.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/__crossworks.h \
  ../../../../../../components/device/compiler_abstraction.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\util\nordic_common.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\util\nordic_common.h \
  ../../../../../../components/device/nrf.h \
  ../../../../../../components/device/nrf52.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \

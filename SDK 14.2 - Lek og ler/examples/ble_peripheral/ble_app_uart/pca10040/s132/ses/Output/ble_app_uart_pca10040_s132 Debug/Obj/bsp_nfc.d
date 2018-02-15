@@ -1,11 +1,11 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/bsp_nfc.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\bsp\bsp_nfc.c \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\bsp\bsp_nfc.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\bsp\bsp_nfc.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\bsp\bsp_nfc.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s132/headers/nrf_error.h \
  ../config/sdk_config.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\bsp\bsp.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\bsp\bsp.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
  ../../../../../../components/boards/boards.h \
  ../../../../../../components/drivers_nrf/hal/nrf_gpio.h \

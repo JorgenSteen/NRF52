@@ -1,5 +1,5 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/nrf_drv_uart.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\drivers_nrf\uart\nrf_drv_uart.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\drivers_nrf\uart\nrf_drv_uart.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
@@ -26,7 +26,7 @@ Output/ble_app_uart_pca10040_s132\ Debug/Obj/nrf_drv_uart.o: \
  ../../../../../../components/device/nrf52_name_change.h \
  ../../../../../../components/device/compiler_abstraction.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\drivers_nrf\uart\nrf_drv_uart.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\drivers_nrf\uart\nrf_drv_uart.h \
  ../../../../../../components/drivers_nrf/hal/nrf_peripherals.h \
  ../../../../../../components/device/nrf52832_peripherals.h \
  ../../../../../../components/drivers_nrf/hal/nrf_uart.h \

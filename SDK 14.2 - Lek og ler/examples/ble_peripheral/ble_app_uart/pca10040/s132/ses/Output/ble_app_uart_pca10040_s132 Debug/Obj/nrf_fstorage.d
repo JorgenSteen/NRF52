@@ -1,7 +1,7 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/nrf_fstorage.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\fstorage\nrf_fstorage.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\fstorage\nrf_fstorage.c \
  ../config/sdk_config.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\libraries\fstorage\nrf_fstorage.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\libraries\fstorage\nrf_fstorage.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
  ../../../../../../components/libraries/util/sdk_errors.h \

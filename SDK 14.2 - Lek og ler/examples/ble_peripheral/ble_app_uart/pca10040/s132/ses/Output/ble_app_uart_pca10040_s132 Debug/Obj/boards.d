@@ -1,6 +1,6 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/boards.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\boards\boards.c \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\boards\boards.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\boards\boards.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\boards\boards.h \
  ../../../../../../components/drivers_nrf/hal/nrf_gpio.h \
  ../../../../../../components/device/nrf.h \
  ../../../../../../components/device/nrf52.h \
@@ -28,4 +28,4 @@ Output/ble_app_uart_pca10040_s132\ Debug/Obj/boards.o: \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdlib.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\boards\pca10040.h
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\boards\pca10040.h

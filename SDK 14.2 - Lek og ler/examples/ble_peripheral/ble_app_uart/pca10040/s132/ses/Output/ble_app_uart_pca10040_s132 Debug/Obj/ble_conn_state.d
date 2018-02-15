@@ -1,6 +1,6 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/ble_conn_state.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\ble\common\ble_conn_state.c \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\components\ble\common\ble_conn_state.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\ble\common\ble_conn_state.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\components\ble\common\ble_conn_state.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  ../../../../../../components/softdevice/s132/headers/ble.h \

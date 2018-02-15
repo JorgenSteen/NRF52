@@ -1,5 +1,5 @@
 Output/ble_app_uart_pca10040_s132\ Debug/Obj/nrf_fprintf.o: \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\external\fprintf\nrf_fprintf.c \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\external\fprintf\nrf_fprintf.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdbool.h \
@@ -31,5 +31,5 @@ Output/ble_app_uart_pca10040_s132\ Debug/Obj/nrf_fprintf.o: \
  ../../../../../../components/libraries/util/app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 3.34/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\external\fprintf\nrf_fprintf_format.h \
- C:\Arm_dev\NRF52\nRF5_SDK_14.2.0\external\fprintf\nrf_fprintf.h
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\external\fprintf\nrf_fprintf_format.h \
+ C:\Arm_dev\NRF52\SDK\ 14.2\ -\ Lek\ og\ ler\external\fprintf\nrf_fprintf.h
