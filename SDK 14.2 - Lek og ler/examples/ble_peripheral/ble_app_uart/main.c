@@ -601,7 +601,7 @@ static void uart_init(void)
         .cts_pin_no   = CTS_PIN_NUMBER,
         .flow_control = APP_UART_FLOW_CONTROL_DISABLED,
         .use_parity   = false,
-        .baud_rate    = NRF_UART_BAUDRATE_115200
+        .baud_rate    = NRF_UART_BAUDRATE_9600
     };
 
     APP_UART_FIFO_INIT(&comm_params,
@@ -716,10 +716,10 @@ int main(void)
 
 
             char data_array[] = "Hei";
-            uint16_t length = sizeof(data_array)-1;
+          //  uint16_t length = sizeof(data_array)-1;
             printf("%s", data_array);
-            uint32_t dump = ble_nus_string_send(&m_nus, data_array, &length);
-            APP_ERROR_CHECK(dump);
+           // uint32_t dump = ble_nus_string_send(&m_nus, data_array, &length);
+          //  APP_ERROR_CHECK(dump);
             nrf_delay_ms(1000);
         }
         UNUSED_RETURN_VALUE(NRF_LOG_PROCESS());
