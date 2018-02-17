@@ -18,12 +18,12 @@ int main(void)
     while (true)
     {
       
-        for (int i = 17; i < 21; i++)
+        for (int i = 17; i < 20; i++)
         {
             NRF_GPIO->OUT &= ~(1<<i);
             nrf_delay_ms(200);
         }
-        for (int i = 17; i < 21; i++)
+        for (int i = 17; i < 20; i++)
         {
             NRF_GPIO->OUT |= (1<<i);
             nrf_delay_ms(200);
@@ -77,9 +77,4 @@ void UART_send(char UART_IN)
 
      NRF_UART0->TASKS_STOPTX = true;
 
-     
-
-
-     
-    
 }
